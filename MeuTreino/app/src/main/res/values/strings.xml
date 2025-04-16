@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeuTreino</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ir_para_treino">"Ir para meu treino</string>
+    <string name="meu_perfil">Meu perfil</string>
+</resources>
